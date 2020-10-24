@@ -674,6 +674,9 @@ a {
   margin-bottom: 15px;
   margin-top: 15px;
 }
+.testimonial-block lottie-player {
+  position: center;
+}
 
 /***********************************CONTACT STYLES***********************************/
 #contact {
