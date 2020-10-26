@@ -395,12 +395,12 @@ a {
   border-color: #bfbfbf;
 }
 
-.hero-content img {
+/*.hero-content img {
   width: 300px;
   height: 300px;
   border-radius: 50%;
   border: 3px #e52e2d solid;
-}
+}*/
 @media screen and (max-width: 768px) {
   .hero-content img {
     width: 200px;
